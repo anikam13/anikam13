@@ -36,4 +36,4 @@ Live URL in that README is [ballhog.app](https://ballhog.app). That host current
 
 ## FinLedger
 
-Personal-finance MCP server with an eval harness (gold set lives next to it, not in this profile). Local only on this machine for now. I will link the repo here when it is public. I am not quoting precision numbers on GitHub until that eval is reproducible from a public tree.
+[FinLedger](https://github.com/anikam13/finledger): local expenses/investments/income ledger with an MCP server and a rules-first reimbursement matcher. Public eval is a 22-example synthetic set (72.7% exact-set, 85.7% auto-match precision on that sample); the private ~92-example gold set is not published.
