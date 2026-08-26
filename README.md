@@ -32,8 +32,6 @@ Browser NBA trivia: see the face, name the hooper.
 
 Repo: [anikam13/balluptop](https://github.com/anikam13/balluptop)
 
-Live URL in that README is [ballhog.app](https://ballhog.app). That host currently 404s (Railway), so treat the GitHub repo as the source of truth until it is back.
-
 ## FinLedger
 
 [FinLedger](https://github.com/anikam13/finledger): local expenses/investments/income ledger with an MCP server and a rules-first reimbursement matcher. Public eval is a 22-example synthetic set (72.7% exact-set, 85.7% auto-match precision on that sample); the private ~92-example gold set is not published.
