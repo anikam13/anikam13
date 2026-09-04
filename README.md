@@ -12,14 +12,6 @@ Production platform at Adobe (React, Node, MySQL) that replaced PowerPoint with 
 
 Case study: [anikam13.github.io/launchpad](https://anikam13.github.io/launchpad/) (Adobe internal · sanitized)
 
-## HeyGen HyperFrames
-
-Merged PR in [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes):
-
-**[fix(studio): capture the storyboard frame hero at full resolution](https://github.com/heygen-com/hyperframes/pull/3338)**
-
-I opened [#3271](https://github.com/heygen-com/hyperframes/issues/3271) with a reproduction: Studio storyboard posters were capped at 240×135, so the frame-detail hero upscaled a thumbnail and body copy went unreadable. Co-authored the merged fix so that surface captures at composition resolution.
-
 ## ReelTime
 
 Made-shot detection and highlight pipeline. Full game in, verified makes out.
@@ -43,6 +35,10 @@ Local-first ledger for expenses, investments, and payroll with a hand-rolled MCP
 Repo: [anikam13/finledger](https://github.com/anikam13/finledger) · Case study: [anikam13.github.io/finledger](https://anikam13.github.io/finledger/)
 
 On a 92-example hand-labeled gold set: **100% auto-match precision** (33/33 at ≥0.75 confidence), **47.8% auto recall** rules-only, **52.2%** with rules+LLM, **60.9%** exact-set accuracy.
+
+## Open source
+
+**HyperFrames** — Repro'd blurry storyboard hero ([#3271](https://github.com/heygen-com/hyperframes/issues/3271)); co-authored [merged Studio fix](https://github.com/heygen-com/hyperframes/pull/3338) for full-resolution capture.
 
 ## Balluptop
 
