@@ -1,8 +1,8 @@
 # Anirudh Kamath
 
-Product engineer · creative strategist · three years @ Adobe.
+Product engineer · 0→1 builder · three years @ Adobe.
 
-I build AI tools to improve accuracy and quality, not just efficiency.
+I build AI tools with quality and accuracy as the priority.
 
 **Portfolio:** [anikam13.github.io](https://anikam13.github.io) · **Resume:** [pdf](https://anikam13.github.io/resume.pdf) · [LinkedIn](https://linkedin.com/in/anirudhkamath) · [Email](mailto:anirudhkamath01@gmail.com)
 
