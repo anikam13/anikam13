@@ -1,37 +1,51 @@
 # Anirudh Kamath
 
-Builder. FDE-oriented. I ship on-device products, computer-vision pipelines, and agent evals.
+Product engineer · creative strategist · three years @ Adobe.
+
+I build AI tools to improve accuracy and quality, not just efficiency.
+
+**Portfolio:** [anikam13.github.io](https://anikam13.github.io) · **Resume:** [pdf](https://anikam13.github.io/resume.pdf) · [LinkedIn](https://linkedin.com/in/anirudhkamath) · [Email](mailto:anirudhkamath01@gmail.com)
+
+## Launchpad
+
+Production platform at Adobe (React, Node, MySQL) that replaced PowerPoint with HTML microsite deliverables: templates, a Google Docs-style comment editor, and MCP/agent tooling over internal LLM APIs. 15+ strategists, 10+ live engagements, delivery time 2 weeks → 2 days.
+
+Case study: [anikam13.github.io/launchpad](https://anikam13.github.io/launchpad/) (Adobe internal · sanitized)
 
 ## HeyGen HyperFrames
 
-Merged PR in [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (42k+ stars):
+Merged PR in [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes):
 
 **[fix(studio): capture the storyboard frame hero at full resolution](https://github.com/heygen-com/hyperframes/pull/3338)**
 
-I opened [#3271](https://github.com/heygen-com/hyperframes/issues/3271) with a reproduction: Studio storyboard posters were capped at 240x135, so the frame-detail hero upscaled a thumbnail and body copy went unreadable. Co-authored the merged fix so that surface captures at composition resolution.
+I opened [#3271](https://github.com/heygen-com/hyperframes/issues/3271) with a reproduction: Studio storyboard posters were capped at 240×135, so the frame-detail hero upscaled a thumbnail and body copy went unreadable. Co-authored the merged fix so that surface captures at composition resolution.
 
-## BallHog CV
+## ReelTime
 
 Made-shot detection and highlight pipeline. Full game in, verified makes out.
 
-Repo: [anikam13/ballhog-cv](https://github.com/anikam13/ballhog-cv)
+Repo: [anikam13/reeltime](https://github.com/anikam13/reeltime) · Case study: [anikam13.github.io/reeltime](https://anikam13.github.io/reeltime/)
 
-![xdq demo](https://raw.githubusercontent.com/anikam13/ballhog-cv/main/docs/demo.gif)
+![xdq demo](https://raw.githubusercontent.com/anikam13/reeltime/main/docs/demo.gif)
 
-![tnc demo](https://raw.githubusercontent.com/anikam13/ballhog-cv/main/docs/demo_tnc.gif)
+![tnc demo](https://raw.githubusercontent.com/anikam13/reeltime/main/docs/demo_tnc.gif)
 
 ## FrameShift
 
-iPhone camera that recreates a reference photo with live on-device guides. No account, no backend.
+On-device iPhone camera that recreates a reference photo with live framing guides. No account, no backend.
 
-[App Store](https://apps.apple.com/us/app/frameshift-camera/id6789638657) · [source](https://github.com/anikam13/frameshift)
+[App Store](https://apps.apple.com/us/app/frameshift-camera/id6789638657) · [source](https://github.com/anikam13/frameshift) · [case study](https://anikam13.github.io/frameshift/)
+
+## FinLedger
+
+Local-first ledger for expenses, investments, and payroll with a hand-rolled MCP server and a rules-first reimbursement matcher that abstains instead of guessing.
+
+Repo: [anikam13/finledger](https://github.com/anikam13/finledger) · Case study: [anikam13.github.io/finledger](https://anikam13.github.io/finledger/)
+
+On a 92-example hand-labeled gold set: **100% auto-match precision** (33/33 at ≥0.75 confidence), **47.8% auto recall** rules-only, **52.2%** with rules+LLM, **60.9%** exact-set accuracy.
 
 ## Balluptop
 
 Browser NBA trivia: see the face, name the hooper.
 
-Repo: [anikam13/balluptop](https://github.com/anikam13/balluptop)
-
-## FinLedger
-
-[FinLedger](https://github.com/anikam13/finledger): local expenses/investments/income ledger with an MCP server and a rules-first reimbursement matcher. Public eval is a 22-example synthetic set (72.7% exact-set, 85.7% auto-match precision on that sample); the private ~92-example gold set is not published.
+[anikam13/balluptop](https://github.com/anikam13/balluptop)
