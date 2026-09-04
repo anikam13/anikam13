@@ -40,8 +40,8 @@ On a 92-example hand-labeled gold set: **100% auto-match precision** (33/33 at �
 
 **HyperFrames** — Repro'd blurry storyboard hero ([#3271](https://github.com/heygen-com/hyperframes/issues/3271)); co-authored [merged Studio fix](https://github.com/heygen-com/hyperframes/pull/3338) for full-resolution capture.
 
-## Balluptop
+## Ballhog
 
 Browser NBA trivia: see the face, name the hooper.
 
-[anikam13/balluptop](https://github.com/anikam13/balluptop)
+[ballhog.app](https://ballhog.app) · [anikam13/ballhog](https://github.com/anikam13/ballhog)
