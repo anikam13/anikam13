@@ -1,6 +1,6 @@
 # Anirudh Kamath
 
-Product engineer · 0→1 builder · three years @ Adobe.
+Product engineer · 0→1 builder · creative strategist · three years @ Adobe.
 
 I build AI tools with quality and accuracy as the priority.
 
